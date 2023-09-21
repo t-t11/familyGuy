@@ -9,7 +9,6 @@ Renders a Next.js page component that displays detailed information about a char
 
 import { Container } from '@/components'
 import Image from 'next/image'
-import { endpoint } from '@/utils/endpoint'
 import { getAllCharacters, getCharacterBySlug } from '@/lib/characters'
 
 export const dynamicParams = false
