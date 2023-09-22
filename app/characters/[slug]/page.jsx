@@ -32,7 +32,7 @@ export default async function Page({ params }) {
                 key={item}
                 className="p-2 text-gray-300 bg-gray-800 rounded-md"
               >
-                {item}
+                .{item}
               </li>
             )
           })}
