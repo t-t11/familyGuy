@@ -52,6 +52,7 @@ export default async function Page({ params }) {
                 alt="character image"
                 width={760}
                 height={435}
+                style={{ width: '760', height: '435' }}
               />
             </li>
           )

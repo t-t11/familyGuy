@@ -29,6 +29,7 @@ export default async function Page() {
                 className="transition-all duration-500 hover:scale-110 hover:-rotate-2"
                 height={500}
                 width={500}
+                style={{ width: '500', height: '500' }}
               />
             </Link>
           )

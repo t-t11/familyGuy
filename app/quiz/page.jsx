@@ -25,6 +25,7 @@ export default async function Page() {
             alt="wallpapar"
             width={700}
             height={700}
+            style={{ width: '700', height: '700' }}
           />
         </div>
         <div className="absolute top-0 bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent md:bg-gradient-to-r"></div>
